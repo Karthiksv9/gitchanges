@@ -1,0 +1,21 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthiksv9/gitchanges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karthiksv9/gitchanges/issues"
+  },
+  "homepage": "https://github.com/Karthiksv9/gitchanges#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.2"
+  }
+}
